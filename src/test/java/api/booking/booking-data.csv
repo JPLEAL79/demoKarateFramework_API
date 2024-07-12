@@ -1,0 +1,3 @@
+nombre,apellido,precio,deposito,fecha_inicio,fecha_fin,adicional,estado
+Juan,Leal,520,true,2022-01-20,2022-12-31,prueba1,200
+Jose,perez,850,true,2022-04-20,2022-11-30,prueba2,200
